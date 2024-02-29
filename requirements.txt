@@ -1,0 +1,4 @@
+pytelegrambotapi==4.10.0
+peewee==3.16.2
+python-dotenv==1.0.0
+loguru==0.7.0
